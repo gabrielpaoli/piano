@@ -1,0 +1,32 @@
+[
+    {
+        "name":"A", 
+        "soundPath": "/sounds/vowels/vowelA.m4a",
+        "color":"none",
+        "id":"aVowel"
+    }, 
+    {
+        "name":"E", 
+        "soundPath": "/sounds/vowels/vowelE.m4a",
+        "color":"none",
+        "id":"eVowel"
+    }, 
+    {
+        "name":"I", 
+        "soundPath": "/sounds/vowels/vowelI.m4a",
+        "color":"none",
+        "id":"iVowel"
+    }, 
+    {
+        "name":"O", 
+        "soundPath": "/sounds/vowels/vowelO.m4a",
+        "color":"none",
+        "id":"oVowel"
+    }, 
+    {
+        "name":"U", 
+        "soundPath": "/sounds/vowels/vowelU.m4a",
+        "color":"none",
+        "id":"uVowel"
+    }
+]

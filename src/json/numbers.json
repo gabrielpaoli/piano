@@ -1,0 +1,62 @@
+[
+    {
+        "name":"0", 
+        "soundPath": "/sounds/numbers/zeroNumber.m4a",
+        "color":"none",
+        "id":"zeroNumber"
+    },
+    {
+        "name":"1", 
+        "soundPath": "/sounds/numbers/oneNumber.m4a",
+        "color":"none",
+        "id":"oneNumber"
+    }, 
+    {
+        "name":"2", 
+        "soundPath": "/sounds/numbers/twoNumber.m4a",
+        "color":"none",
+        "id":"twoNumber"
+    }, 
+    {
+        "name":"3", 
+        "soundPath": "/sounds/numbers/threeNumber.m4a",
+        "color":"none",
+        "id":"threeNumber"
+    }, 
+    {
+        "name":"4", 
+        "soundPath": "/sounds/numbers/fourNumber.m4a",
+        "color":"none",
+        "id":"fourNumber"
+    }, 
+    {
+        "name":"5", 
+        "soundPath": "/sounds/numbers/fiveNumber.m4a",
+        "color":"none",
+        "id":"fiveNumber"
+    }, 
+    {
+        "name":"6", 
+        "soundPath": "/sounds/numbers/sixNumber.m4a",
+        "color":"none",
+        "id":"sixNumber"
+    }, 
+    {
+        "name":"7", 
+        "soundPath": "/sounds/numbers/sevenNumber.m4a",
+        "color":"none",
+        "id":"sevenNumber"
+    }, 
+    {
+        "name":"8", 
+        "soundPath": "/sounds/numbers/eightNumber.m4a",
+        "color":"none",
+        "id":"eightNumber"
+    }, 
+    {
+        "name":"9", 
+        "soundPath": "/sounds/numbers/nineNumber.m4a",
+        "color":"none",
+        "id":"nineNumber"
+    }
+]

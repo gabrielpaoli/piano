@@ -36,6 +36,24 @@
 	background-image: url('https://www.netclipart.com/pp/m/77-777377_music-instruments-music-instruments-cartoon-png.png');
 }
 
+.buttonVowels{
+	font-size: 0;
+	border: 0;
+	width: 175px;
+	height: 175px;
+	margin: 20px;
+	background-image: url('https://i.pinimg.com/736x/9a/82/a7/9a82a75c05e4b3a5e1ae2189d0dbb2c1.jpg');
+}
+
+.buttonNumbers{
+	font-size: 0;
+	border: 0;
+	width: 115px;
+	height: 135px;
+	margin: 20px;
+	background-image: url('https://image.freepik.com/vector-gratis/numeros-divertidos-lindos-establecidos_97632-613.jpg');
+}
+
 .hen{
 	background-position-x: 0px;
 	background-position-y: -15px;
@@ -129,4 +147,79 @@
 .saxophone{
 	background-position-x: -386px;
 	background-position-y: -390px;
+}
+
+.aVowel{
+	background-position-x: -36px;
+	background-position-y: -52px;
+}
+
+.eVowel{
+	background-position-x: -236px;
+	background-position-y: -52px;
+}
+
+.iVowel{
+	background-position-x: -436px;
+	background-position-y: -52px;
+}
+
+.oVowel{
+	background-position-x: -136px;
+	background-position-y: -220px;
+}
+
+.uVowel{
+	background-position-x: -336px;
+	background-position-y: -220px;
+}
+
+.zeroNumber{
+	background-position-x: -40px;
+	background-position-y: -58px;
+}
+
+.oneNumber{
+	background-position-x: -150px;
+	background-position-y: -58px;
+}
+
+.twoNumber{
+	background-position-x: -250px;
+	background-position-y: -58px;
+}
+
+.threeNumber{
+	background-position-x: -375px;
+	background-position-y: -58px;
+}
+
+.fourNumber{
+	background-position-x: -485px;
+	background-position-y: -58px;
+}
+
+.fiveNumber{
+	background-position-x: -40px;
+	background-position-y: -242px;
+}
+
+.sixNumber{
+	background-position-x: -144px;
+	background-position-y: -240px;
+}
+
+.sevenNumber{
+	background-position-x: -254px;
+	background-position-y: -242px;
+}
+
+.eightNumber{
+	background-position-x: -374px;
+	background-position-y: -242px;
+}
+
+.nineNumber{
+	background-position-x: -484px;
+	background-position-y: -242px;
 }
