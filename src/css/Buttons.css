@@ -1,0 +1,132 @@
+#container-buttons{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+  justify-content: center;
+}
+
+/*
+.containerInn{
+	flex: 1 0 25%;
+}
+*/
+
+.title{
+	text-align: center;
+	font-size: 40px;
+	background-color: rgb(228, 228, 228);
+	padding: 10px;
+}
+
+.buttonAnimalSound{
+	font-size: 0;
+	border: 0;
+	width: 100px;
+	height: 100px;
+	margin: 30px;
+	background-image: url('https://image.shutterstock.com/image-vector/cute-toy-animals-eyes-buttons-600w-382340782.jpg');
+}
+
+.buttonMusicalInstrumentSound{
+	font-size: 0;
+	border: 0;
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+	background-image: url('https://www.netclipart.com/pp/m/77-777377_music-instruments-music-instruments-cartoon-png.png');
+}
+
+.hen{
+	background-position-x: 0px;
+	background-position-y: -15px;
+}
+
+.sheep{
+	background-position-x: -100px;
+	background-position-y: -15px;
+}
+
+.cow{
+	background-position-x: -200px;
+	background-position-y: -15px;
+}
+
+.goat{
+	background-position-x: -300px;
+	background-position-y: -15px;
+}
+
+.pig{
+	background-position-x: -400px;
+	background-position-y: -15px;
+}
+
+.horse{
+	background-position-x: -500px;
+	background-position-y: -15px;
+}
+
+.dog{
+	background-position-x: 0px;
+	background-position-y: -135px;
+}
+
+.duck{
+	background-position-x: -100px;
+	background-position-y: -135px;
+}
+
+.turkey{
+	background-position-x: -200px;
+	background-position-y: -135px;
+}
+
+.wildPig{
+	background-position-x: -500px;
+	background-position-y: -135px;
+}
+
+.zebra{
+	background-position-x: 0px;
+	background-position-y: -255px;
+}
+
+.tiger{
+	background-position-x: -500px;
+	background-position-y: -255px;
+}
+
+.guitar{
+	background-position-x: -186px;
+	background-position-y: -212px;
+}
+
+.piano{
+	background-position-x: -386px;
+	background-position-y: -26px;
+}
+
+.electricGuitar{
+	background-position-x: -186px;
+	background-position-y: -26px;
+}
+
+.violin{
+	background-position-x: -386px;
+	background-position-y: -212px;
+}
+
+.trombone{
+	background-position-x: -586px;
+	background-position-y: -212px;
+}
+
+.drums{
+	background-position-x: -186px;
+	background-position-y: -390px;
+}
+
+.saxophone{
+	background-position-x: -386px;
+	background-position-y: -390px;
+}
