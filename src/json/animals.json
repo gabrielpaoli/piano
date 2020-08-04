@@ -1,73 +1,73 @@
 [
     {
         "name":"Gallina", 
-        "soundPath":"sounds/animals/hen.wav",
+        "soundPath":"/piano/sounds/animals/hen.wav",
         "color":"none",
         "id":"hen"
     }, 
     {
         "name":"Oveja", 
-        "soundPath":"sounds/animals/sheep.wav",
+        "soundPath":"/piano/sounds/animals/sheep.wav",
         "color":"none",
         "id":"sheep"
     },
     {
         "name":"Vaca", 
-        "soundPath":"sounds/animals/cow.wav",
+        "soundPath":"/piano/sounds/animals/cow.wav",
         "color":"none",
         "id":"cow"
     },
     {
         "name":"Cabra", 
-        "soundPath":"sounds/animals/goat.wav",
+        "soundPath":"/piano/sounds/animals/goat.wav",
         "color":"none",
         "id":"goat"
     },
     {
         "name":"Chancho", 
-        "soundPath":"sounds/animals/pig.wav",
+        "soundPath":"/piano/sounds/animals/pig.wav",
         "color":"none",
         "id":"pig"
     },
     {
         "name":"Caballo", 
-        "soundPath":"sounds/animals/horse.wav",
+        "soundPath":"/piano/sounds/animals/horse.wav",
         "color":"none",
         "id":"horse"
     },
     {
         "name":"Perro", 
-        "soundPath":"sounds/animals/dog.wav",
+        "soundPath":"/piano/sounds/animals/dog.wav",
         "color":"none",
         "id":"dog"
     },
     {
         "name":"Pato", 
-        "soundPath":"sounds/animals/duck.wav",
+        "soundPath":"/piano/sounds/animals/duck.wav",
         "color":"none",
         "id":"duck"
     },
     {
         "name":"Pavo", 
-        "soundPath":"sounds/animals/turkey.wav",
+        "soundPath":"/piano/sounds/animals/turkey.wav",
         "color":"none",
         "id":"turkey"
     },
     {
         "name":"Jabali", 
-        "soundPath":"sounds/animals/wildPig.wav",
+        "soundPath":"/piano/sounds/animals/wildPig.wav",
         "color":"none",
         "id":"wildPig"
     },
     {
         "name":"Cebra", 
-        "soundPath":"sounds/animals/zebra.wav",
+        "soundPath":"/piano/sounds/animals/zebra.wav",
         "color":"none",
         "id":"zebra"
     },
     {
         "name":"Tigre", 
-        "soundPath":"sounds/animals/tiger.wav",
+        "soundPath":"/piano/sounds/animals/tiger.wav",
         "color":"none",
         "id":"tiger"
     }

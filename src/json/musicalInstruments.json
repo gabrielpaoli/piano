@@ -1,43 +1,43 @@
 [
     {
         "name":"Guitarra", 
-        "soundPath": "/sounds/musicalInstruments/guitar.mp3",
+        "soundPath": "/piano/sounds/musicalInstruments/guitar.mp3",
         "color":"none",
         "id":"guitar"
     }, 
     {
         "name":"Guitarra electrica", 
-        "soundPath": "/sounds/musicalInstruments/electricGuitar.wav",
+        "soundPath": "/piano/sounds/musicalInstruments/electricGuitar.wav",
         "color":"none",
         "id":"electricGuitar"
     }, 
     {
         "name":"Piano", 
-        "soundPath": "/sounds/musicalInstruments/piano.wav",
+        "soundPath": "/piano/sounds/musicalInstruments/piano.wav",
         "color":"none",
         "id":"piano"
     }, 
     {
         "name":"Violin", 
-        "soundPath": "/sounds/musicalInstruments/violin.wav",
+        "soundPath": "/piano/sounds/musicalInstruments/violin.wav",
         "color":"none",
         "id":"violin"
     }, 
     {
         "name":"Trombon", 
-        "soundPath": "/sounds/musicalInstruments/trombone.wav",
+        "soundPath": "/piano/sounds/musicalInstruments/trombone.wav",
         "color":"none",
         "id":"trombone"
     }, 
     {
         "name":"Bateria", 
-        "soundPath": "/sounds/musicalInstruments/drums.wav",
+        "soundPath": "/piano/sounds/musicalInstruments/drums.wav",
         "color":"none",
         "id":"drums"
     },
     {
         "name":"Saxofon", 
-        "soundPath": "/sounds/musicalInstruments/saxophone.wav",
+        "soundPath": "/piano/sounds/musicalInstruments/saxophone.wav",
         "color":"none",
         "id":"saxophone"
     }
