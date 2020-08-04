@@ -7,8 +7,14 @@ import vowels from "../../json/vowels.json";
 import numbers from "../../json/numbers.json";
 
 export default function Buttons() {
+	
+	function scaleSound(value){
+		console.log(value);
+	}
+
 	return (
     <div id="container">
+
 			<ButtonsLoad
 				title={'Animales'}
 				buttons={animals}
@@ -32,6 +38,11 @@ export default function Buttons() {
 				buttons={numbers}
 				imageClass={'buttonNumbers'}
 			/>
+
+			<div className="slidecontainer">
+				<input onChange={value=>scaleSound(value)} defaultValue="5" type="range" min="0" max="10" className="slider" id="myRange"/>
+			</div>
+
 		</div>
   );
 }

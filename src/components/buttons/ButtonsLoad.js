@@ -20,9 +20,11 @@ export default function ButtonsLoad(props) {
 		if(audioContext){
 			button.style.fontSize = '20px';
 			button.style.backgroundImage = 'none';
+			button.disabled = true;
 		}else{
 			button.style.fontSize = 0;
 			button.style.backgroundImage = originalBackgroundImage;
+			button.disabled = false;
 		}
 	}
 
